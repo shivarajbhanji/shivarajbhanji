@@ -59,7 +59,7 @@ Agile Methodology • SDLC • CI/CD • Test Automation
 
 ---
 
-## 📬 Reach Me
+## 📬 Reach me at
 
 <a href="https://www.linkedin.com/in/shivaraj-bhanji-24407620a/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png" width="40" height="40"/></a>
 <a href="mailto:bhanji@usc.edu"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" height="40"/></a>
