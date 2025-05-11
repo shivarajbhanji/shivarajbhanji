@@ -49,7 +49,7 @@ Python • Java • C • C++ • JavaScript • Kotlin • HTML • CSS • Ang
 Hugging Face Transformers • LlamaIndex • QdrantDB • PyTorch • NumPy • Retrieval-Augmented Generation (RAG)
 
 **Databases:**  
-MongoDB • MySQL • Oracle SQL
+MongoDB • MySQL 
 
 **Tools & Platforms:**  
 Git • GitHub • Docker • Google Cloud Platform (GCP) • AWS • Azure • Linux (RHEL, CentOS) • Travis CI • Circle CI • Jenkins • JIRA • Shell Scripting
